@@ -94,9 +94,13 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #7a6960;
-  text-decoration: none;
+  text-decoration: line-through;
 }
 
+#header .logo h6 a, #header .logo h1 a:hover {
+  color: #eb5d1e;
+  text-decoration: line-through;
+}
 
 /*--------------------------------------------------------------
 #header .logo img {
