@@ -83,6 +83,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #header .logo h1 {
   font-size: 30px;
+  padding: 5px;
   margin: 0;
   line-height: 1;
   font-weight: 400;
@@ -108,7 +109,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -222,7 +223,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #7a6960;
