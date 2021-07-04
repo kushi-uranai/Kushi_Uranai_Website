@@ -571,6 +571,12 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+#services {
+
+  background-image: url("Kushi 哭西命理研究室封面2.jpg");
+  background-size: cover;
+}
+
 .services .icon-box {
   padding: 30px;
   position: relative;
@@ -606,8 +612,9 @@ section {
   color: #111;
 }
 
+
 .services .description {
-  font-size: 15px;
+  font-size: 20px;
   line-height: 28px;
   margin-bottom: 0;
 }
