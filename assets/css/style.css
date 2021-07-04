@@ -526,11 +526,6 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-#services {
-
-  background-image: url("Kushi_cover2.jpg");
-  background-size: cover;
-}
 .about h3 {
   font-weight: 700;
   font-size: 34px;
@@ -572,7 +567,7 @@ section {
 --------------------------------------------------------------*/
 #services {
 
-  background-image: url("Kushi_cover2.jpg.jpg");
+  background-image: url("Kushi_cover2.jpg");
   background-size: cover;
 }
 
