@@ -375,6 +375,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 @media (max-width: 991px) {
   #hero {
     height: calc(100vh - 72px);
+    background-image: url("Kushi 哭西命理研究室封面3.JPG");
+    background-size: cover;
   }
   #hero .animated {
     -webkit-animation: none;
@@ -405,12 +407,16 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 @media (max-width: 575px) {
   #hero .hero-img img {
     width: 80%;
+    background-image: url("Kushi 哭西命理研究室封面3.JPG");
+    background-size: cover;
   }
 }
 
 @media (max-height: 600px) {
   #hero {
     height: calc(120vh);
+    background-image: url("Kushi 哭西命理研究室封面3.JPG");
+    background-size: cover;
   }
 }
 
