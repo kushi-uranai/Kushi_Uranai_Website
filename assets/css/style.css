@@ -329,7 +329,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero {
   width: 100%;
   height: 70vh;
-  background-image: url("Kushi 哭西命理研究室封面3.JPG");
+  background-image: url("Kushi 哭西命理研究室封面.JPG");
   background-size: cover;
   border-bottom: 2px solid #fcebe3;
   margin: 72px 0 -72px 0;
@@ -526,7 +526,7 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-#about {
+#services {
 
   background-image: url("Kushi 哭西命理研究室封面2.jpg");
   background-size: cover;
