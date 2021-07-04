@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", Microsoft JhengHei;
   color: #212529;
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, .font-primary {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Microsoft JhengHei;
 }
 
 /*--------------------------------------------------------------
@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
+  font-family: Microsoft JhengHei;
   color: #7a6960;
   text-decoration: none;
 }
@@ -108,7 +109,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -222,7 +223,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #7a6960;
@@ -348,7 +349,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Microsoft JhengHei;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1247,7 +1248,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", Microsoft JhengHei;
   color: #5c5c5c;
 }
 
